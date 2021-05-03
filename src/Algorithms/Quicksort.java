@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class Quicksort {
 
     public void sort(int[] nums){
@@ -29,7 +31,6 @@ public class Quicksort {
                 nums[j] = temp;
 
             }
-
 
         }
         int temp = nums[i+1];
