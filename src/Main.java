@@ -1,5 +1,4 @@
-import javax.print.attribute.EnumSyntax;
-import java.util.*;
+import Problems.RepeatingAInString;
 
 public class Main {
 
@@ -26,6 +25,15 @@ public class Main {
 //
 //        Problems.SumOfTwoIntegersInGivenValue findSum = new Problems.SumOfTwoIntegersInGivenValue();
 //        System.out.println(Arrays.toString(findSum.hashSolution(arr,target)));
+
+
+        // Repeating 'a' in a string
+//        String s = "a";
+//        long n = 10;
+//
+//        RepeatingAInString repeat = new RepeatingAInString();
+//
+//        repeat.repeatedString(s,1000);
 
 
 

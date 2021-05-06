@@ -23,6 +23,7 @@ public int[] hashSolution (int[] arr, int target){
     Map<Integer,Integer> numMap = new HashMap<>();
     for(int  i = 0;i<arr.length;i++){
         numMap.put(arr[i],i);
+        System.out.println(arr[i]);
     }
 
     for (int i = 0; i<arr.length;i++){
@@ -33,6 +34,7 @@ public int[] hashSolution (int[] arr, int target){
 
         }
     }
+
     return new int[] {-1,-1};
 }
 
