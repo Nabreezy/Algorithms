@@ -1,4 +1,4 @@
-package Problems;
+package Problems.HackerRank;
 
 public class RepeatingAInString {
 

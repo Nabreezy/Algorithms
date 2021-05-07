@@ -1,4 +1,4 @@
-package Problems;
+package Problems.HackerRank;
 
 import java.util.List;
 

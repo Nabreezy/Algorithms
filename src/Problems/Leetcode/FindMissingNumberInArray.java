@@ -1,4 +1,4 @@
-package Problems;
+package Problems.Leetcode;
 
 public class FindMissingNumberInArray {
 
