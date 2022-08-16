@@ -1,7 +1,7 @@
 # Algorithms in JAVA
 A list of useful full algorithms in java.
 
-## How to use a algorithm
+## How to use an algorithm
 
 Just copy the class and input your parameter. 
 
